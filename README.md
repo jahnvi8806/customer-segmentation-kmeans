@@ -27,5 +27,6 @@ This project uses Machine Learning (K-Means Clustering) to segment mall customer
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 Live demo 
 [live demo](https://customer-segmentation-kmeans-jjr4zeeh2t5uvwuz9wxhao.streamlit.app/)
