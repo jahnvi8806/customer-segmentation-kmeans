@@ -29,4 +29,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 Live demo 
-[live demo](https://customer-segmentation-kmeans-jjr4zeeh2t5uvwuz9wxhao.streamlit.app/)
+([live demo](https://uhcqqjylxeyx2q2aettc6p.streamlit.app/))
